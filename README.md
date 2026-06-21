@@ -14,14 +14,6 @@ Leveraging architectural and operations experience to approach data analytics wi
         <li><b>Core Analyst Skills:</b> Data Visualization, Business Understanding, Statistics, Data Cleaning, EDA, GIS</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <h3>📐 Precision, Design & Operations</h3>
-      <ul>
-        <li><b>Design Tools:</b> AutoCAD, Revit, SketchUp, Lumion, Enscape, V-Ray</li>
-        <li><b>Creative Suite:</b> Adobe Creative Cloud (Illustrator, Photoshop, Premiere Pro, InDesign), Canva</li>
-        <li><b>Methodologies:</b> Project Management, Spatial Analysis, Research, Team Leadership</li>
-      </ul>
-    </td>
   </tr>
 </table>
 
