@@ -29,7 +29,7 @@ Leveraging architectural and operations experience to approach data analytics wi
 * **Tools and Methods:**
 * **Suggestion:**
 
-### [The Look E-Commerce: Inventory and Montly Retention Analysis](https://drive.google.com/file/d/1aUsldhvN1yR_og34I0c8PDr_A37j2wpV/view?usp=drive_link)
+### [TheLook E-Commerce: Inventory and Montly Retention Analysis](https://drive.google.com/file/d/1aUsldhvN1yR_og34I0c8PDr_A37j2wpV/view?usp=drive_link)
 * **Project Summary:**
 * **Scope of Work:**
 * **Tools and Methods:**
