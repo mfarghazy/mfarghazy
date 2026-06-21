@@ -31,20 +31,23 @@ Leveraging architectural and operations experience to approach data analytics wi
 
 > *Note: Below are my featured data analytics reports. Click on the document titles to view the full PDF documentation stored securely on Google Drive.*
 
-### IndiRevo E-Commerce: Fulfillment Performance and Revenue Leakage Analysis
-* **Project Summary:** Proyek ini menganalisis 100k+ data transaksi e-commerce untuk menemukan produk paling menguntungkan dan churn rate pelanggan..
-* **Tools:** Python (Pandas, Matplotlib), SQL (PostgreSQL).
-* **Dokumentasi:** [📄 Lihat Laporan PDF Proyek (Google Drive)](https://drive.google.com/file/d/1cRyJ2Ip1zUBde_OfIwskFZYSJFbpzaQB/view?usp=sharing)
+### [IndiRevo E-Commerce: Fulfillment Performance and Revenue Leakage Analysis](https://drive.google.com/file/d/1cRyJ2Ip1zUBde_OfIwskFZYSJFbpzaQB/view?usp=sharing)
+* **Project Summary:**
+* **Scope of Work:**
+* **Tools and Methods:**
+* **Suggestion:**
 
-### The Look E-Commerce: Inventory and Montly Retention Analysis
-* **Project Summary:** Membuat dashboard interaktif untuk melacak KPI penjualan bulanan, margin keuntungan, dan performa wilayah regional.
-* **Tools:** Tableau, Excel.
-* **Dokumentasi:** [📊 Lihat Dashboard & Laporan PDF](https://drive.google.com/file/d/1aUsldhvN1yR_og34I0c8PDr_A37j2wpV/view?usp=drive_link)
+### [The Look E-Commerce: Inventory and Montly Retention Analysis](https://drive.google.com/file/d/1aUsldhvN1yR_og34I0c8PDr_A37j2wpV/view?usp=drive_link)
+* **Project Summary:**
+* **Scope of Work:**
+* **Tools and Methods:**
+* **Suggestion:**
 
-### IndiRevo E-Commerce: Fulfillment Performance and Revenue Leakage Analysis
-* **Project Summary:** Proyek ini menganalisis 100k+ data transaksi e-commerce untuk menemukan produk paling menguntungkan dan churn rate pelanggan..
-* **Tools:** Python (Pandas, Matplotlib), SQL (PostgreSQL).
-* **Dokumentasi:** [📄 Lihat Laporan PDF Proyek (Google Drive)](https://drive.google.com/file/d/1rYJ2wE2Q8lJhTeyV_P7HAEXwkACeuROL/view?usp=drive_link)
+### [Revo Hospital:Operational Efficiency Analysis](https://drive.google.com/file/d/1rYJ2wE2Q8lJhTeyV_P7HAEXwkACeuROL/view?usp=drive_link)
+* **Project Summary:**
+* **Scope of Work:**
+* **Tools and Methods:**
+* **Suggestion:**
 
 ---
 
