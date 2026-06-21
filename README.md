@@ -35,7 +35,7 @@ Leveraging architectural and operations experience to approach data analytics wi
 * **Tools and Methods:**
 * **Suggestion:**
 
-### [Revo Hospital:Operational Efficiency Analysis](https://drive.google.com/file/d/1rYJ2wE2Q8lJhTeyV_P7HAEXwkACeuROL/view?usp=drive_link)
+### [Revo Hospital: Operational Efficiency Analysis](https://drive.google.com/file/d/1rYJ2wE2Q8lJhTeyV_P7HAEXwkACeuROL/view?usp=drive_link)
 * **Project Summary:**
 * **Scope of Work:**
 * **Tools and Methods:**
